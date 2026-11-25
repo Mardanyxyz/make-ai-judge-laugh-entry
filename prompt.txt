@@ -1,0 +1,1 @@
+Write a program that writes ONE joke to /output/entry.txt: a single joke about office life, ONE line, under 200 characters. The judge compares jokes two at a time and crowns the funnier one, weighing truth to office life, a surprising turn, tightness, and freshness.
